@@ -1,0 +1,25 @@
+{
+  "short_name": "Microsoft",
+  "name": "Before participating, carefully read all the conditions, and make a transfer of your XRP to the address indicated, using the translation by QR-code or simply translate to the address",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

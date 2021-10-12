@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bedc9289.chunk.css",
+    "main.js": "/static/js/main.ffacf96f.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.00a9beea.js",
+    "static/js/2.ac3996c9.chunk.js": "/static/js/2.ac3996c9.chunk.js",
+    "static/js/3.71c1ee72.chunk.js": "/static/js/3.71c1ee72.chunk.js",
+    "static/js/4.f1d553be.chunk.js": "/static/js/4.f1d553be.chunk.js",
+    "static/css/5.cbe38d5e.chunk.css": "/static/css/5.cbe38d5e.chunk.css",
+    "static/js/5.0fb85551.chunk.js": "/static/js/5.0fb85551.chunk.js",
+    "static/css/6.29852eb5.chunk.css": "/static/css/6.29852eb5.chunk.css",
+    "static/js/6.c0483631.chunk.js": "/static/js/6.c0483631.chunk.js",
+    "static/js/7.a52f397d.chunk.js": "/static/js/7.a52f397d.chunk.js",
+    "static/js/8.beb3c91c.chunk.js": "/static/js/8.beb3c91c.chunk.js",
+    "static/js/9.91405305.chunk.js": "/static/js/9.91405305.chunk.js",
+    "static/js/10.7d791392.chunk.js": "/static/js/10.7d791392.chunk.js",
+    "static/js/11.5f44cb86.chunk.js": "/static/js/11.5f44cb86.chunk.js",
+    "static/js/12.ad95b79c.chunk.js": "/static/js/12.ad95b79c.chunk.js",
+    "static/js/13.c01f34d3.chunk.js": "/static/js/13.c01f34d3.chunk.js",
+    "static/js/14.4493535c.chunk.js": "/static/js/14.4493535c.chunk.js",
+    "static/js/15.2b5c85ec.chunk.js": "/static/js/15.2b5c85ec.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.ac3996c9.chunk.js.LICENSE.txt": "/static/js/2.ac3996c9.chunk.js.LICENSE.txt",
+    "static/js/4.f1d553be.chunk.js.LICENSE.txt": "/static/js/4.f1d553be.chunk.js.LICENSE.txt",
+    "static/media/BTC-bg.df491d66.png": "/static/media/BTC-bg.df491d66.png",
+    "static/media/ETH-bg.c748c6fc.png": "/static/media/ETH-bg.c748c6fc.png",
+    "static/media/base.css": "/static/media/modal-bg.27c65d98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00a9beea.js",
+    "static/js/4.f1d553be.chunk.js",
+    "static/css/main.bedc9289.chunk.css",
+    "static/js/main.ffacf96f.chunk.js"
+  ]
+}

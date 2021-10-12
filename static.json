@@ -1,0 +1,23 @@
+{
+    "hash_eth":"12345678987654323456765432",
+    "hash_btc":"12345678987654323456765455",
+    "btc":"15 000",
+    "eth":"100 000",
+    "max_eth":500,
+    "min_eth":0.1,
+    "max_btc":500,
+    "min_btc":0.1,
+    "value_btc":2730,
+    "value_eth":61134,
+    "max_trinsaction":50,
+    "min_trinsaction":15,
+    "fee_eth":0.01,
+    "fee_btc":0.01,
+    "time":15,
+    "kf_eth":2,
+    "kf_btc":2,
+    "name_eth":"Ethereum",
+    "name_btc":"Bitcoin",
+    "btns_eth":[1,5,100,500],
+    "btns_btc":[1,5,100,500]
+}
